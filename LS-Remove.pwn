@@ -1,5 +1,5 @@
 	@ Author: Spasic Jovan (Spasic)
-	@ Author Contat: //www.facebook.com/profile.php?id=100074875885781&mibextid=ZbWKwL
+	@ Author Contact: //www.facebook.com/profile.php?id=100074875885781&mibextid=ZbWKwL
 
 #include <a_samp>
 
